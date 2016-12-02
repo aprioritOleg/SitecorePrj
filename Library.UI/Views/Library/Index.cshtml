@@ -1,0 +1,115 @@
+﻿@model List<Library.Domain.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script src="~/Scripts/custom/LibraryScript.js"></script>
+
+<div id="index">
+
+    <div class="modal fade" id="deleteModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Record Deleting</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Are you shure?</p>
+                </div>
+                <div class="modal-footer">
+                    <input hidden value="null" id="bookIdHandler" />
+                    <button onclick="deleteBook()" type="button" class="btn btn-default" data-dismiss="modal">Yes</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!--change quantity modal-->
+    <div class="modal fade" id="changeQuantityModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Change Quantity of Book</h4>
+                </div>
+                <div class="modal-body">
+                    <input type="number" min="0" id="newQuantity" /> <span>enter new book quantity</span>
+                </div>
+                <div class="modal-footer">
+                    <input hidden value="null" id="bookIdHandler" />
+                    <button onclick="setNewQuantity()" type="button" class="btn btn-default" data-dismiss="modal">Yes</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#home">Library</a></li>
+        <li><a data-toggle="tab" href="#addNewBookMenu">Add new Book</a></li>
+        <li><a data-toggle="tab" href="#ShowHistoryMenu">Histories</a></li>
+    </ul>
+
+
+    <div class="tab-content">
+        <div id="home" class="tab-pane fade in active">
+            <div id="libraryBooks">
+                @Html.Partial("_LibraryBooks", Model)
+            </div>
+        </div>
+
+
+
+
+
+
+        @*dsadsa*@
+        <div id="addNewBookMenu" class="tab-pane fade">
+            <p>Here you can add new Book</p>
+            <form data-toggle="validator">
+                <div class="form-group">
+                    <label for="title">Book Title</label>
+                    <input oninput="makeBlack('title')" id="title" type="text" required placeholder="Book Title" /><br />
+                    <label for="quantity">Book Quantity</label>
+                    <input id="quantity" type="number" min="0" required value="0" /><br />
+
+                </div>
+            </form>
+            <input type="text" id="newAuthor" /><button class="btn btn-default" onclick="addNewAuthor()"> Add new Author</button> <br />
+            <button class="btn btn-default" onclick="saveNewBook()">Add and save</button>
+            <div class="form-group">
+                <span>Authors will add here</span><button class="btn btn-sm" onclick="clearBox()">clear box</button>
+                <textarea id="authorsList" class="form-control" rows="5" readonly></textarea>
+            </div>
+
+            <p>Press on exist author to add in your book</p>
+            @{
+                var authors = (List<Library.Domain.Models.Author>)TempData["authros"];
+            }
+            <ul id="authorsUl">
+                @for (int i = 0; i < authors.Count; i++)
+                {
+                <li name="@authors[i].Id" onclick="authorAdd(this)">@authors[i].Name</li>
+                }
+            </ul>
+        </div>
+
+        <div id="ShowHistoryMenu" class="tab-pane fade">
+            @Html.Partial("_Histories", TempData["histories"])
+        </div>
+
+    </div>
+</div>
+
+<script>
+   
+</script>

@@ -1,0 +1,7 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\bin\Debug\Library.Service.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\bin\Debug\Library.Service.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\bin\Debug\Library.Domain.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\bin\Debug\Library.Domain.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\obj\Debug\Library.Service.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\obj\Debug\Library.Service.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.Service\obj\Debug\Library.Service.pdb

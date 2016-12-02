@@ -1,0 +1,4 @@
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication33\Library.Domain\bin\Debug\Library.Domain.dll
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication33\Library.Domain\bin\Debug\Library.Domain.pdb
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication33\Library.Domain\obj\Debug\Library.Domain.dll
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication33\Library.Domain\obj\Debug\Library.Domain.pdb

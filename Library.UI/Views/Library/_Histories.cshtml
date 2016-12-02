@@ -1,0 +1,47 @@
+﻿@model Library.Domain.Models.History[]
+
+<div class="row">
+    <button id="userHistoryOnly" data-assigned-id="@User.Identity.Name" onclick="historyPagin(null, true)">Show only my books</button>
+    <button onclick="historyPagin(null, false)">Show only my books</button>
+
+    <table class="table">
+        <thead>
+            <tr>
+                @*id="title"*@
+                <th>Book Title</th>
+                <th>User Email</th>
+                <th>Picked Date</th>
+            </tr>
+        </thead>
+        <tbody id="historyTBody">
+            @for (int i = 0; i < Model.Length; i++)
+            {
+                <tr>
+                    <td>@Model[i].BookTitle</td>
+                    <td>@Model[i].UserEmail</td>
+                    <td>@Model[i].PicDate.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="btn-group" role="group" id="historyPagin">
+
+</div>
+
+
+<script>
+    window.onload = function () {
+        historyTbBody = document.getElementById("historyTBody");
+        var pageCounter = 0;
+        for (var i = 0; i < historyTbBody.rows.length; i++) {
+            if (i % 5 == 0) {
+                pageCounter += 1;
+                var paging = document.getElementById('historyPagin');
+                paging.innerHTML = paging.innerHTML + '<button type="button" class="btn btn-secondary" onclick ="historyPagin(' + pageCounter + ',' + null + ');">' + (pageCounter) + '</button>';
+            }
+        }
+        historyPagin(1, false);
+    }
+</script>

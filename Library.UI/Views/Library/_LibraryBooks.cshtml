@@ -1,0 +1,91 @@
+﻿@model List<Library.Domain.Models.Book>
+<script src="~/Scripts/custom/LibraryScript.js"></script>
+@* id="available"*@
+<button class="btn btn-default" onclick="sort_table(books, 2, 1, true,1); ">Show available books</button>
+<button class="btn btn-default" onclick="sort_table(books, 2, 1, false,1); availableOnly = false;">Show all books</button>
+
+
+<table id="myTable" class="table">
+    <thead>
+        <tr>
+            <th hidden>Id</th>
+            <th>Quantity</th>
+            @*id="title"*@
+            <th onclick="sort_table(books, 2, asc1, null); asc1 *= -1; asc2 = 1;">Title</th>
+            <th onclick="sort_table(books, 3, asc2, null); asc2 *= -1; asc1 = 1;">Auhtors</th>
+            <th>Modify</th>
+            <th>Take Boook</th>
+
+
+        </tr>
+    </thead>
+    <tbody id="books">
+
+        @for (int i = 0; i < Model.Count; i++)
+            {
+            <tr>
+                <td hidden>@Model[i].Id</td>
+                <td>@Model[i].Quantity</td>
+                <td>@Model[i].Title</td>
+
+                @if (Model[i].Authors.Count > 0)
+                {
+                    <td>
+                        <ol>
+                            @for (int j = 0; j < Model[i].Authors.Count; j++)
+                            {
+                                <li>@Model[i].Authors[j].Name</li>
+                            }
+
+                        </ol>
+                    </td>
+                }
+                else
+                {
+                    <td>No Author Here</td>
+                }
+                <td>
+                    <div class="btn-group-vertical" role="group" aria-label="Basic example">
+                        <input onclick="openDeleteModal(@Model[i].Id)" type="button" class="btn btn-default modal-btn" value="Delete" />
+                        <button onclick="changeQuantityModal(@Model[i].Id)" type="button" class="btn btn-default">Change Quatity</button>
+                    </div>
+                </td>
+                <td>
+                    @if (@Model[i].Quantity == 0)
+                    {
+                        <button class="btn btn-default disabled" onclick="takeBook(this)">Take</button>
+                    }
+                    else
+                    {
+                        <button data-assigned-id="@Model[i].Id" data-assigned-name="@Model[i].Title" class="btn btn-default" onclick="takeBook(this)">Take</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="btn-group" role="group" id="paging">
+
+</div>
+
+
+
+
+
+<script>
+    tbody = document.getElementById("books");
+    var pageCounter = 0;
+    for (var i = 0; i < tbody.rows.length; i++) {
+        if (i % 5 == 0) {
+            pageCounter += 1;
+            var paging = document.getElementById('paging');
+            paging.innerHTML = paging.innerHTML + '<button type="button" class="btn btn-secondary" onclick ="sort_table(books, null, null, null,' + pageCounter + ');">' + (pageCounter) + '</button>';
+
+        }
+    }
+    sort_table(tbody, 2, 1, false, 1);
+
+
+
+</script>

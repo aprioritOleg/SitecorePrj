@@ -1,0 +1,116 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\ApplicationInsights.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\csc.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\vbc.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.UI.dll.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.UI.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.UI.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.Domain.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.Web.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Helpers.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Mvc.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Razor.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Webpages.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.Domain.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.Web.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Razor.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Webpages.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Helpers.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\System.Web.Mvc.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\obj\Debug\Library.UI.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\obj\Debug\Library.UI.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\obj\Debug\Library.UI.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.Service.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\LibraryService.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Ninject.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Ninject.Web.Common.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\WebActivatorEx.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Library.Service.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\LibraryService.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Ninject.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Ninject.Web.Common.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33\Library.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\ApplicationInsights.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\csc.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\vbc.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.UI.dll.config
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.UI.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.UI.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.Domain.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.Service.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.Web.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Ninject.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Ninject.Web.Common.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Helpers.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Mvc.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Razor.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Webpages.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\WebActivatorEx.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.Domain.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Library.Service.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.Web.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Ninject.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Ninject.Web.Common.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Razor.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Webpages.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Helpers.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\bin\System.Web.Mvc.xml
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\obj\Debug\Library.UI.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\obj\Debug\Library.UI.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\ConsoleApplication33 - копия\Library.UI\obj\Debug\Library.UI.pdb
